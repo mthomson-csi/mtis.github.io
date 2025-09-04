@@ -1,0 +1,1 @@
+This repository holds the github pages for the mtis.ca website.
